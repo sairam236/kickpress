@@ -66,8 +66,6 @@ Features:
 Learn more:
   Documentation: https://github.com/clebertmarctyson/kickpress#readme
   Report issues: https://github.com/clebertmarctyson/kickpress/issues
-  
-Made with ☕ and ❤️ by Marc Tyson CLEBERT
     `
   );
 
