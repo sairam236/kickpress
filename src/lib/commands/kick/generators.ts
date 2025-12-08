@@ -39,14 +39,14 @@ export const generatePackageJson = (config: ProjectConfig): object => {
     "express-async-handler": "^1.2.0",
     "@prisma/client": "^7.1.0",
     "@prisma/adapter-better-sqlite3": "^7.1.0",
-    "better-sqlite3": "^9.2.2",
+    "better-sqlite3": "^12.5.0",
     dotenv: "^17.2.3",
   };
 
   const devDependencies: Record<string, string> = {
     "@types/node": "^20.10.6",
     "@types/express": "^4.17.21",
-    "@types/better-sqlite3": "^7.6.8",
+    "@types/better-sqlite3": "^7.6.13",
     prisma: "^7.1.0",
   };
 
